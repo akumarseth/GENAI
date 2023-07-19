@@ -1,0 +1,7 @@
+ipywidgets
+pinecone-client
+openai
+tiktoken
+python-dotenv
+langchain
+
